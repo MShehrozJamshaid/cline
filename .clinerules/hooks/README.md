@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 64 / repository commit 10
-Subject: Fix Cline not respecting .clinerules
-Focus: Fix, Cline, not, respecting, .clinerules
+Sequence: 65 / repository commit 11
+Subject: Add support for custom tools in Cline
+Focus: Add, support, for, custom, tools
