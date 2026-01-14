@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 75 / repository commit 13
-Subject: Add support for custom tools in Cline
-Focus: Add, support, for, custom, tools
+Sequence: 95 / repository commit 14
+Subject: [cline] Add support for custom tools in Cline
+Focus: [cline], Add, support, for, custom
