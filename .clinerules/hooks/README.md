@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 469 / repository commit 27
-Subject: [cline] Fix Cline not respecting .clinerules
-Focus: [cline], Fix, Cline, not, respecting
+Sequence: 470 / repository commit 28
+Subject: Fix Cline not respecting .clinerules
+Focus: Fix, Cline, not, respecting, .clinerules
