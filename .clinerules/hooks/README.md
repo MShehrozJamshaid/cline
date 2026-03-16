@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 539 / repository commit 39
-Subject: Add autonomous coding agent in VS Code with 48k stars
-Focus: Add, autonomous, coding, agent, Code
+Sequence: 540 / repository commit 40
+Subject: Fix Cline not respecting .clinerules
+Focus: Fix, Cline, not, respecting, .clinerules
