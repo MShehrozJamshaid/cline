@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1046 / repository commit 72
-Subject: Implement Cline extension for agentic coding
-Focus: Implement, Cline, extension, for, agentic
+Sequence: 1097 / repository commit 73
+Subject: [cline] Fix Cline not respecting .clinerules
+Focus: [cline], Fix, Cline, not, respecting
