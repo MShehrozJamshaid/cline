@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1125 / repository commit 79
-Subject: Implement natively supported VS Code integration
-Focus: Implement, natively, supported, Code, integration
+Sequence: 1131 / repository commit 80
+Subject: Implement Cline extension for agentic coding
+Focus: Implement, Cline, extension, for, agentic
