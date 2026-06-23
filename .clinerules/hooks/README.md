@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1113 / repository commit 78
-Subject: Add support for custom tools in Cline
-Focus: Add, support, for, custom, tools
+Sequence: 1125 / repository commit 79
+Subject: Implement natively supported VS Code integration
+Focus: Implement, natively, supported, Code, integration
