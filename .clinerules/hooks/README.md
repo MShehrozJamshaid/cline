@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1247 / repository commit 92
-Subject: Implement natively supported VS Code integration
-Focus: Implement, natively, supported, Code, integration
+Sequence: 1252 / repository commit 93
+Subject: Fix Cline not respecting .clinerules
+Focus: Fix, Cline, not, respecting, .clinerules
